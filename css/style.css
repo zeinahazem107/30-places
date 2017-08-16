@@ -1,0 +1,65 @@
+h1 {
+	color: blue;
+	font-family: times,sans-serif;
+	font-size: 50px;
+	text-align: center;
+	font-style: italic;
+}
+
+div.landmarks h2 {
+	font-style: italic;
+	font-weight: bold;
+	font-family: Times, sans-serif;
+}
+
+div.landmarks h3 {
+	font-style: italic;
+	font-family: Helvetica;
+	font-size: 20px;
+	color: red;
+}
+
+div.landmarks p {
+	font-size: 20px;
+	font-family: times, sans-serif;
+}
+
+label {
+	font-size: 20px;
+	color: red;
+	font-family: times, sans-serif;
+}
+
+p {
+	font-size: 20px;
+	font-family: times,sans-serif;
+}
+
+body {
+	background-color: lightgrey;
+}
+
+.carousel-image {
+	width: 100%;
+	height: 30%;
+}
+#para
+{
+    padding-right: 250px;  
+    padding-left: 250px;
+}
+
+div.carousel-caption {
+	text-align: left;
+	padding-right: 250px;
+}
+
+.btn-success:hover {
+	transition: transform 1s ease;
+	transform: rotate(360deg);
+}
+
+.logos {
+
+}
+
