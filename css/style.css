@@ -59,7 +59,14 @@ div.carousel-caption {
 	transform: rotate(360deg);
 }
 
-.logos {
+div.logos {
+	padding-top: 50px;
+}
 
+a img {
+	display: block;
+    margin: auto;
+    width: 40%;
+	height: 40%;
 }
 
